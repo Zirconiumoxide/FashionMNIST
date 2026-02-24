@@ -1,0 +1,8 @@
+torch
+torchvision
+matplotlib
+tqdm
+torchmetrics
+mlxtend
+ipynb 
+ipykernel
